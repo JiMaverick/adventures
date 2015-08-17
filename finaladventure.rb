@@ -113,7 +113,7 @@ while mothra.hp >=1
 				puts "Game over, #{character_name}."
 				exit
 			end
-
+				#wakka wakka
 		end
 
 	end
